@@ -1,0 +1,11 @@
+.git
+.vs
+packages
+Elia.Unity/bin
+Elia.Unity/obj
+TestGame/.vs
+TestGame/Library
+TestGame/obj
+TestGame/bin
+TestGame/Packages
+
