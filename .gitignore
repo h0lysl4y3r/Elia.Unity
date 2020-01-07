@@ -8,4 +8,17 @@ TestGame/Library
 TestGame/obj
 TestGame/bin
 TestGame/Packages
-
+TestGame/Temp
+TestGame/Logs
+TestGame/Assets/Editor Default Resources
+TestGame/Assets/Editor Default Resources.meta
+TestGame/Assets/Firebase
+TestGame/Assets/Firebase.meta
+TestGame/Assets/Parse
+TestGame/Assets/Parse.meta
+TestGame/Assets/PlayServicesResolver
+TestGame/Assets/PlayServicesResolver.meta
+TestGame/Assets/Plugins/Android
+TestGame/Assets/Plugins/Android.meta
+TestGame/Assets/Plugins/iOS
+TestGame/Assets/Plugins/iOS.meta

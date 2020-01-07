@@ -19,6 +19,8 @@
 			public static string ObjectAlreadyAssigned = "{0} already assigned.";
 			public static string ObjectNotFound = "{0} not found.";
             public static string ObjectIsNotActive = "{0} is not active.";
+			public static string ObjectIsInitialized = "{0} is not initialized.";
+			public static string CouldNotResolveDependenciesForObject = "Could not resolve dependencies for object {0}.";
 
             // GUI
             public static string ScreenIsAlreadyActive = "Screen is already active.";
@@ -46,6 +48,7 @@
 			public static string Modals = "Modals";
 			public static string Tabs = "Tabs";
 			public static string Audio = "Audio";
+			public static string Analytics = "Analytics";
 		}
 	}
 }

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413236445752",
+    "firebase_url": "https://theautismsimulator.firebaseio.com",
+    "project_id": "theautismsimulator",
+    "storage_bucket": "theautismsimulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413236445752:android:951df57c29968068df5ccd",
+        "android_client_info": {
+          "package_name": "com.google.firebase.unity.analytics.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413236445752-avtva25gdi340l0agnp8nbm5nndcfsr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ehtXoE-GgLtmhiMnfDMzgE3EUiOoI_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413236445752-avtva25gdi340l0agnp8nbm5nndcfsr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
